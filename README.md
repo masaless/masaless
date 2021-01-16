@@ -1,11 +1,11 @@
 
 ## 👨🏻‍💻Matheus Damasceno Sales 
 
-<hr>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1E66EB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-damasceno-sales-4310a0165/)](https://www.linkedin.com/in/matheus-damasceno-sales-4310a0165/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-F61511?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusdamascenosales@gmail.com)](mailto:matheusdamascensales@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-ab35ac?style=flat-square&logo=Instagram&logoColor=white&link=)](https://www.instagram.com/matheussales27/)
+
+<hr>
 
 ### Olá 👋
 
