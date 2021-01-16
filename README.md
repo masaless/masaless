@@ -14,7 +14,7 @@ Meu nome é Matheus, sou formado em Análise e Desenvolvimento de Sistemas, e es
 - 🔍 Atualmente aberto a novas oportunidades.
 - ⚙️ HTML5, CSS3, JS.
 - 📰 Estudando Node.js, Angular e JavaScript. 
-- 💬 Sobre mim: Gosto de um bom café ☕!!
+- 💬 Sobre mim: Gosto de um bom café ☕
 
 <hr>
 
