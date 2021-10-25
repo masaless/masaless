@@ -11,7 +11,6 @@
 
 Meu nome é Matheus, sou formado em Análise e Desenvolvimento de Sistemas, e estou a cada dia evoluindo no que mais gosto de fazer que é programar. 
 - 👨🏻‍💻 Desenvolvedor Front-end .
-- 🔍 Atualmente aberto a novas oportunidades.
 - ⚙️ HTML5, CSS3, JS.
 - 📰 Estudando JavaScript e Desenvolvimento Web. 
 
@@ -52,4 +51,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔍 Atualmente aberto a novas oportunidades.
 -->
