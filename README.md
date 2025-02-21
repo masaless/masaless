@@ -11,7 +11,7 @@
 
 Meu nome é Matheus, sou formado em Análise e Desenvolvimento de Sistemas, e estou a cada dia evoluindo no que mais gosto de fazer que é programar. 
 
-- 📰 Desenvolvimento Front-End
+- 📰 Desenvolvimento
 
 <hr>
 
